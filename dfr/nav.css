@@ -1,0 +1,86 @@
+.Navbar ul
+{
+    width: 1500;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #7f0e1f;
+    overflow: hidden;
+    height: 82px;
+    
+}
+.Navbar a
+{text-decoration: none;
+    color: whitesmoke;
+    float: inline-start;
+    padding: 15px;
+    margin-top: 25.5px;
+    font-size: 19px;
+    margin-top: 19px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.Navbar{
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+    position: sticky;
+    top: 0;
+ /* Ensures the underline only spans the text width */
+     text-decoration: none;
+    
+    
+    
+    
+}
+.Navbar a:hover
+{
+    text-underline-position: below ;
+    cursor: pointer;
+    background-color: #93081d;
+    border-radius: 35px
+    
+    
+    
+     ;
+    
+}
+
+
+.Navbar li {
+    margin-left: 655px;
+    margin-top: 1px;
+    
+    
+    
+    
+
+}
+.imgfe {
+    height: 80px;
+    border-radius: 0px;
+    border: rgb(0, 0, 0);
+    border-width: 95px;
+    
+    
+    margin-left: -839px;
+    color:white;
+    margin-top: -1px;
+    
+
+    
+    
+
+}
+
